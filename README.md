@@ -1,10 +1,4 @@
 # Texas A&M Institute of Data Science - Data Science Bootcamp 
-## Introduction to Python
-
-Matthew Hielsberg \
-August 9, 2022
-
-Materials for the TAMIDS Data Science Bootcamp - Introduction to Python
 
 The Texas A&M Institute of Data Science offered a five-day hands-on data science bootcamp August 8-12, 2022. 
 This camp introduced the fundamentals of data science, and was divided into three sessions, Software, Data Science and Deep Learning.  
@@ -16,4 +10,21 @@ This camp introduced the fundamentals of data science, and was divided into thre
     2. Data Science Primer - August 11, 2022
 3. Session 3:
     1. Fundamentals of Deep Learning (full day workshop with NVIDIA Deep Learning Institute) - August 12, 2022
+
+
+## Introduction to Python
+
+Matthew Hielsberg \
+August 9, 2022
+
+The opening of the workshops started with the Getting Started slides, which 
+give a basic intro into "What is Python" as well as helpful refernces and an 
+overview of the cli, IDE's, Jupyter Project, Anaconda and Google Colab.
+These slides also give a link to the TAMIDS Training page, containing the
+Python Primer (https://training.tamids.tamu.edu/python-primer/).  The primer
+covers everything in this workshop and more, and consists of 45 videos + 
+Jupyter Notebooks.  
+
+The next portion of the workshop switched to using the Jupyter Notebooks from
+this repo (using Google Colab), and introduced the Python Language.  
 
