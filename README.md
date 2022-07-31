@@ -1,4 +1,4 @@
-# Texas A&M Institute of Data Science - Data Science Bootcamp 
+# Texas A&M Institute of Data Science - Data Science Bootcamp (Python Section)
 
 The Texas A&M Institute of Data Science offered a five-day hands-on data science bootcamp August 8-12, 2022. 
 This camp introduced the fundamentals of data science, and was divided into three sessions, Software, Data Science and Deep Learning.  
