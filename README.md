@@ -46,3 +46,21 @@ Topics:
  - Modules and Packages
  - Numpy
  - Pandas
+
+ 
+ ## Files
+
+ - Getting Started.pptx - Intro/Background slides with helpful links.
+ - installation_notes_2021.pdf - Older, but valid, notes on Python/Jupyter 
+                                 installation (version numbers should be
+								 updated).  It is recommended that users go
+								 to official sites (see links in any of the
+								 documents in this repo) for installation
+								 instructions.  These notes are included 
+								 merely give an idea of the process and 
+								 hopefully direct those having a hard time 
+								 finding their way.
+ - Jupyter Notebooks (*.ipynb) - Topic specific notebooks with hands-on examples.
+ - LICENSE - License/Disclaimer on the requirements for using and/or 
+             distributing content from this repository.
+ - README.md - This file!
