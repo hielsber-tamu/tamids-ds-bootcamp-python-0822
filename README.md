@@ -28,7 +28,7 @@ Jupyter Notebooks.
 The next portion of the workshop switched to using the Jupyter Notebooks from
 this repo (using Google Colab), and introduced the Python Language.  
 
-Topics:
+### Topics:
  - Google Colab Interface/Basic Usage
  - Getting Help in Python, Docstrings, Comments...
  - Using Python as a Calculator, Arithmetic Operators
