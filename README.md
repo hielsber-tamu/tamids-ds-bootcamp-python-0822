@@ -42,9 +42,7 @@ this repo (using Google Colab), and introduced the Python Language.
  - Basic Debugging (ipdb)
  - More Data Structures (tuples, sets, dictionaries)
  - Comprehensions
- - Objects and Names
- - Modules and Packages
- - Numpy
+ - Modules and Packages 
  - Pandas
 
  
